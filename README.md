@@ -1,7 +1,7 @@
 
 <h3> :woman_technologist:	&nbsp;Sobre mim </h3>
 
-🎓 &nbsp; Formada em Análise e Desenvolvimento de Sistemas.\
+🎓 &nbsp; Formação em Análise e Desenvolvimento de Sistemas.\
 💼 &nbsp; Desenvolvedora Full Stack\
 🌱 &nbsp; Aprendendo mais sobre Ruby on Rails e Docker.
 
