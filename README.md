@@ -3,7 +3,7 @@
 
 🎓 &nbsp; Formação em Análise e Desenvolvimento de Sistemas.\
 💼 &nbsp; Desenvolvedora Full Stack\
-🌱 &nbsp; Aprendendo mais sobre Ruby on Rails e Docker.
+🌱 &nbsp; Aprendendo mais sobre Ruby on Rails e React Native.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
