@@ -1,9 +1,10 @@
 
 <h3> :woman_technologist:	&nbsp;Sobre mim </h3>
 
-🎓 &nbsp; Formação em Análise e Desenvolvimento de Sistemas.\
+🎓 &nbsp; Formação em Análise e Desenvolvimento de Sistemas\
+🎓 &nbsp; Pós-graduanda em Engenharia de Software\
 💼 &nbsp; Desenvolvedora Full Stack\
-🌱 &nbsp; Aprendendo mais sobre Engenharia de Software.
+🌱 &nbsp; Aprendendo mais sobre Engenharia de Software
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
